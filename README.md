@@ -47,6 +47,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 If you have any questions or suggestions regarding EventFinder, please feel free to reach out:
 
 - GitHub: [@Quinos2003](https://github.com/Quinos2003)
-- Email: [your-email@example.com]
+- Email: [samarth.beststudy@gmail.com]
 
 Happy event hunting!
